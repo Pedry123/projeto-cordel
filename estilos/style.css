@@ -51,12 +51,12 @@ pre p {
 }
 
 section#img0 {
-    background: url(/projeto2/imagens/background001.jpg) right center no-repeat fixed;
+    background: url(/projeto-cordel/imagens/background001.jpg) right center no-repeat fixed;
     background-size: cover;
 }
 
 section#img1 {
-    background: url(/projeto2/imagens/background002.jpg) no-repeat fixed;
+    background: url(/projeto-cordel/imagens/background002.jpg) no-repeat fixed;
     background-size: cover;
 }
 
